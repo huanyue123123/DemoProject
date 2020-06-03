@@ -1,4 +1,4 @@
-package com.huanyue.spaceuserclient.entity;
+package com.huanyue.usermanage.entity;
 
 public class Result {
 

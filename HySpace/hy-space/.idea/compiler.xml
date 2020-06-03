@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="space-user-client" />
+        <module name="user-manage" />
         <module name="space" />
         <module name="hy-space" />
         <module name="space-server" />
@@ -17,6 +18,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="space-server" options="-parameters" />
       <module name="space-user-client" options="-parameters" />
+      <module name="user-manage" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,11 +1,11 @@
 package com.huanyue.spaceuserclient.dao;
 
 import com.huanyue.spaceuserclient.entity.User;
-import org.springframework.stereotype.Component;
+import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
-@Component
+@Mapper
 public interface UserDao {
 
     User selectByName(User user);
