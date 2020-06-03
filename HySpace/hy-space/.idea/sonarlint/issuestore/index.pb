@@ -11,3 +11,11 @@ _
 /space-server/src/main/resources/application.yml,1\a\1a317a88ca941892b4b1ffcb69bf70a5e97f7adb
 I
 space-user-client/pom.xml,3\f\3f437c209aa03addd7a6328b40b5719a838867d9
+|
+Lspace-user-client/src/main/java/com/huanyue/spaceuserclient/entity/User.java,b\b\bb6be9aa9f4b88cb992c6b157f954b011afc6643
+|
+Lspace-user-client/src/main/java/com/huanyue/spaceuserclient/dao/UserDao.java,6\6\6635c5ad2c702c4f258efeacc9a58b64f8bd0cd2
+~
+Nspace-user-client/src/main/java/com/huanyue/spaceuserclient/entity/Result.java,f\5\f5471ab57775beda341c0c89fe60d43ffdafb487
+„
+Tspace-user-client/src/main/java/com/huanyue/spaceuserclient/service/UserService.java,d\3\d3255ec7af1d3941108b3442b98e8374817854dc

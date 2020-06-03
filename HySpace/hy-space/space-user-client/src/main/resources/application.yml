@@ -17,7 +17,7 @@ spring:
   application:
     name: user-client
   profiles:
-    active: usage_message
+    active: dev
   rabbitmq:
     port: 5672
     username: root

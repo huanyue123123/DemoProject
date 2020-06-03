@@ -1,22 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b09f7a3-2d22-4636-a021-0dda018ed325" name="Default Changelist" comment="" />
+    <list default="true" id="3b09f7a3-2d22-4636-a021-0dda018ed325" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-user-client/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-user-client/src/main/resources/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj-vue/test/e2e/specs/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/0/00c7ecc7fbc4de4018f567c76ea3d37ad4097561" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/0/00c7ecc7fbc4de4018f567c76ea3d37ad4097561" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/0/206e342a7adff4405de55d44c7372c605d0c8982" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/0/206e342a7adff4405de55d44c7372c605d0c8982" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1cmqla9h9pi7zj9RZV38sHTwotI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git-repos\HySpace\hy-space\space-user-client\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,10 +122,25 @@
       <option name="presentableId" value="Default" />
       <updated>1591144268037</updated>
       <workItem from="1591144271303" duration="1458000" />
+      <workItem from="1591147762198" duration="2372000" />
+      <workItem from="1591170044307" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
