@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="space-user-client" />
-        <module name="user-manage" />
-        <module name="space" />
         <module name="hy-space" />
+        <module name="user-manage" />
         <module name="space-server" />
+        <module name="wj" />
+        <module name="space-user-client" />
+        <module name="space" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,7 @@
       <module name="space-server" options="-parameters" />
       <module name="space-user-client" options="-parameters" />
       <module name="user-manage" options="-parameters" />
+      <module name="wj" options="-parameters" />
     </option>
   </component>
 </project>

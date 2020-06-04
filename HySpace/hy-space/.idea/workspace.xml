@@ -2,25 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b09f7a3-2d22-4636-a021-0dda018ed325" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/user-manage/src/main/java/com/huanyue/usermanage/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-manage/src/main/java/com/huanyue/usermanage/entity/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wj-vue/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-manage/src/main/java/com/huanyue/usermanage/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-manage/src/main/java/com/huanyue/usermanage/filter/BaseFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb6be9aa9f4b88cb992c6b157f954b011afc6643" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb6be9aa9f4b88cb992c6b157f954b011afc6643" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3255ec7af1d3941108b3442b98e8374817854dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3255ec7af1d3941108b3442b98e8374817854dc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5471ab57775beda341c0c89fe60d43ffdafb487" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5471ab57775beda341c0c89fe60d43ffdafb487" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/SpaceUserClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/SpaceUserClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/entity/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/entity/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../wj-vue/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wj-vue/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wj-vue/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../wj-vue/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../wj-vue/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../wj-vue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/src/components/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/src/components/home/Appindex.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/specs/test.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +73,10 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/workspace/maincloud/feign-hi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wj" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -73,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.UserManageApplication">
+  <component name="RunManager" selected="Spring Boot.WjApplication">
     <configuration name="SpaceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="space-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.huanyue.spaceserver.SpaceServerApplication" />
@@ -95,6 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WjApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wj" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gm.wj.WjApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -108,7 +140,8 @@
       <updated>1591144268037</updated>
       <workItem from="1591144271303" duration="1458000" />
       <workItem from="1591147762198" duration="2372000" />
-      <workItem from="1591170044307" duration="2824000" />
+      <workItem from="1591170044307" duration="5075000" />
+      <workItem from="1591233914005" duration="4284000" />
     </task>
     <task id="LOCAL-00001" summary="李鑫">
       <created>1591170315943</created>
@@ -117,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591170315943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="李鑫">
+      <created>1591173795146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591173795146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="李鑫">
+      <created>1591173837982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591173837982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +186,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="李鑫" />
     <option name="LAST_COMMIT_MESSAGE" value="李鑫" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wj/src/main/java/com/gm/wj/controller/LoginController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

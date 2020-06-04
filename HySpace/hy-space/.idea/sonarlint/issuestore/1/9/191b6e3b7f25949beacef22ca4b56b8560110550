@@ -1,0 +1,5 @@
+
+`squid:UselessImportCheck"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8¿ÁÃÊ§.
+jsquid:UselessImportCheck"?Remove this unused import 'com.huanyue.usermanage.entity.User'.(¼ï€ä8‹ÇØÊ§.
+~squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "obj".(‹©²®üÿÿÿÿ8äğÃÊ§.
+Zsquid:UselessImportCheck	"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Û‘ÄÊ§.
