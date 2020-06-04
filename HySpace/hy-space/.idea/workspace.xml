@@ -2,47 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b09f7a3-2d22-4636-a021-0dda018ed325" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/user-manage/src/main/java/com/huanyue/usermanage/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-manage/src/main/java/com/huanyue/usermanage/filter/BaseFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb6be9aa9f4b88cb992c6b157f954b011afc6643" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb6be9aa9f4b88cb992c6b157f954b011afc6643" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3255ec7af1d3941108b3442b98e8374817854dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3255ec7af1d3941108b3442b98e8374817854dc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5471ab57775beda341c0c89fe60d43ffdafb487" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5471ab57775beda341c0c89fe60d43ffdafb487" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/config/test.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/components/Login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/components/home/Appindex.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/nightwatch.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wj-vue/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/hy-vue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/assets/gelei/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/assets/gelei/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/common/NavMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/home/AppIndex.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/Books.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/EditBook.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/LibraryIndex.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/SearchBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/SideMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +82,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hy-vue" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -141,7 +150,7 @@
       <workItem from="1591144271303" duration="1458000" />
       <workItem from="1591147762198" duration="2372000" />
       <workItem from="1591170044307" duration="5075000" />
-      <workItem from="1591233914005" duration="4284000" />
+      <workItem from="1591233914005" duration="7637000" />
     </task>
     <task id="LOCAL-00001" summary="李鑫">
       <created>1591170315943</created>
@@ -164,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591173837982</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="李鑫&#10;模糊查询和分页功能">
+      <created>1591238452366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591238452366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,17 +201,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="李鑫" />
-    <option name="LAST_COMMIT_MESSAGE" value="李鑫" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/wj/src/main/java/com/gm/wj/controller/LoginController.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="李鑫&#10;模糊查询和分页功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="李鑫&#10;模糊查询和分页功能" />
   </component>
 </project>
