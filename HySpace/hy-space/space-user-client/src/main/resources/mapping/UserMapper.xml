@@ -2,12 +2,12 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.huanyue.spaceuserclient.dao.UserDao">
+<mapper namespace="com.huanyue.spacepageclient.dao.UserDao">
 
     <sql id="fieldsSql">
         id,username,password,name,salt
     </sql>
-    <resultMap id="ResultMap" type="com.huanyue.spaceuserclient.entity.User">
+    <resultMap id="ResultMap" type="com.huanyue.spacepageclient.entity.User">
         <id column="id" property="id"/>
         <result column="username" property="username"/>
         <result column="password" property="password" />
@@ -19,7 +19,7 @@
         `user`
     </sql>
 
-    <select id="selectByName" resultMap="ResultMap" parameterType="com.huanyue.spaceuserclient.entity.User">
+    <select id="selectByName" resultMap="ResultMap" parameterType="com.huanyue.spacepageclient.entity.User">
         SELECT
             <include refid="fieldsSql"></include>
         FROM
@@ -31,7 +31,7 @@
             </if>
     </select>
 
-    <select id="queryUserList" resultMap="ResultMap" parameterType="com.huanyue.spaceuserclient.entity.User">
+    <select id="queryUserList" resultMap="ResultMap" parameterType="com.huanyue.spacepageclient.entity.User">
         SELECT
         <include refid="fieldsSql"></include>
         FROM

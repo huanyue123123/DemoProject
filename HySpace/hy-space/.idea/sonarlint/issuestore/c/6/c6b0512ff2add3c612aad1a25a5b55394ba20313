@@ -1,4 +1,4 @@
 
-ksquid:UselessImportCheck"ARemove this unused import 'com.huanyue.usermanage.entity.Result'.(½Î.8ä‘ÓÊ§.
 jsquid:UselessImportCheck"?Remove this unused import 'com.huanyue.usermanage.entity.User'.(¼ï€ä8ÅïØÊ§.
 qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğú‘X
+ksquid:UselessImportCheck"ARemove this unused import 'com.huanyue.usermanage.entity.Result'.(½Î.8ä‘ÓÊ§.

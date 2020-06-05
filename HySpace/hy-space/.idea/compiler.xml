@@ -9,6 +9,7 @@
         <module name="hy-space" />
         <module name="user-manage" />
         <module name="space-server" />
+        <module name="space-page-client" />
         <module name="wj" />
         <module name="space-user-client" />
         <module name="space" />
@@ -17,6 +18,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="space-page-client" options="-parameters" />
       <module name="space-server" options="-parameters" />
       <module name="space-user-client" options="-parameters" />
       <module name="user-manage" options="-parameters" />

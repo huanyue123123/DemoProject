@@ -1,0 +1,8 @@
+
+Ksquid:EmptyStatementUsageCheck"Remove this empty statement.(öÊË¤ÿÿÿÿÿ
+_squid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô
+gsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(ãà€Ûûÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+isquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀõÓö
+?squid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S11726"&Remove these unused method parameters.(ïÙ¸Ö

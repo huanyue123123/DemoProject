@@ -2,56 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b09f7a3-2d22-4636-a021-0dda018ed325" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/0104b9ff7fb701f8e693ed024215c9364af6a230" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03a75857ddc11a1d203f3ef889ab91961b02936a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/046629f3ad6a2787ab537433424528169af983ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04f4c38192a291678dee23015a7d881cd2750fab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09e940a086a8fd49c3cff7a0cadeb51b276dd34f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b3404e9759464d296eedd4450c1d05f70669058" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c76ae86f15eb644c1c7da0feb85203aff660cc0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d703fd60cf066926a085dcf27fe24ffaab1e38b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fde581f60449d14c8b0a3e0dbbdf64b5d578c12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10abebfedea9224afa0345c2e4a7b12f25a6623c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1696a701e0730b8c356574683fc879c7349ba5d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/177544664c7d23ee191f0b3eab628ff1a61b4156" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d079e2ecaa52f0a7f2c1a805278f0d7c5a64189" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f1fbd9a68eaba553890ad1122c0efc4e898ef48" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24b8915ff1bdb5737e7977d839ffe6f4bd890c18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29506676df2e1252988f9dc77c801790b81f09d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d75aa466ac88600bd777417147d0226a01fda41" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/337f98cf2723999356c8e1c3a8888b1e2c3ab8a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/355e05d7a177fc7c782721e32ca03bb2070ab2cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/398a1c56737ae5d1a18a76332dec7df4e689c7fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b585ab5b79f3d568539eee607b1b5f08f9a81a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c1e54855a44c2fe0827238f63bf81c3b15e08af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/414fb2e445766a377ed223706db7df23c68f923d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/430c414a7b1f8e4f92b72512427950b9171b1da2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45d6fce89e5c2095a50ac7037a2cad93861ca0d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c264aabfa65e92616ebd4004b5a3d7c8c97abe4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c2f4d3a6c6105a1b459f0f49e397ed29edd800c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ef314907c1b0ca06468b85dade0b76bdc6f6796" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f38ca9211cc34c778ed4af3f6fec022688c887b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50fff674fb0f35f4a748c13f688c13a23a204385" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/518d33f99a490e7e78a731cd7dd1df3fbce809c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51c7f44ed41b8b39e30dcc6552a435d55562d7cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52be398e17483e4f2d13cc3dd355e3f2a6bc1256" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/547cf4e5f280acb022fb52327b06abaf0ed1816a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/551340adacb031e75486639df54a5c17363cf609" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5571910883cbcca4aeabbbb9cceae36b6f30e68c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55d02be564dd0361485a2b5c7ca56ac240129270" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56e2e1a6f496fe48db7722b1d9c858b7744b5950" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/572bb570db4499cba4b5d8ba7181fcd8acf17847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59b019f69e8fe255005e27547312622a7c09085f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/6011c13be278d2762b6efbdeaec96a1ba1fe4e05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/610cf02fc9abbe546991d77020f742e2759590ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/6249149ed1a7f8b60bf88cd40a6056e3d77f5b34" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62e385c336310b48f8fb79d5179935b14df0a031" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/646beced010cdcc8b872ffdbcaa97c2f9267cbff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65f7485a0d28bd73af3a317ab725d56fec9c6242" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66924aa24354f8324c57f8a3015d6b0cd4eb8d01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6781879b511d6a3bafc057ac44bd40eefc61e623" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/702e659cb5eabd6e214994f39ae21dec7e26132e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/708505c70c3f469a3a968f2adaca0ee61a375a5a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74695d9d7dbc01395e73e0aea5f1ff3ecb60f243" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78d7c7ea086e76f1d98d5f9de80adf9a558e9da3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79552bf9d50192a620a3bd0625c71f65b0290319" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cb47afdab2c81d589a6a57ab8b31e37586da1b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d20c5c0c3b7b9f4fdd4dbc365711db3beb8066f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7dff6bc2f074d042b8affcca9333206d94d7606e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81f5df18d2c9795e800aa19cb5a1cb2821598b15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8248441629266ae891c4206182a93badfa0b93da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88e3d7816f0d23462cbf71a531c2b32136cebb23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d12f5f520fb84945e99c0b45323ca54e0c26fc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/966783326e021b9dd93811cf3a027a1dab2d1c0b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/968a7d58104d717f579a0f71bbb6a22f37b8d73f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a112a2adfaeb23be5e9d683d6b692e2e4ff387f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f6d20e33b514d3445942d511376925d92950ab9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a11d87491577fc05df64a86431ece7e41fa1ef2d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a34c945ae7e46bde68cb66dba976c01b6b659c9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a35c409a1c538956fd1fe2567d35415eafea1bfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3eb487a950270b7018b4323c839be245a171bd8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a40a23892d30bcd518e6eaa2897fe1035a57df74" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5b4f9ef5ebe07d53108de8f38e09346fd6a74aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a87ca6571b415f168cf8c59eafbccb240857c443" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa1ed29182ac820d58751263061c7bb8acf7a539" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac8d235efddb162916e1bcf9dbd778fb5d585b4c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/aea3f9a58b6f5ba50ced9ade18acd6acb64c9123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/aed2455becc58de5975ae22e5871f20cb26fd785" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afbd9b1333ee0d7205b951f1c4f596d9e4e3be58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b12d5f4c07293834b51194d41567b7e972b17a27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48e77953a09289c28883b001855bee2c2a540c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b795637fd7ce9a166030ee2af48e30725f2d6092" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8821773c7cc2a530f430a433d726cc1cc4ca7cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c15bf12f6fe55924a73d81823b0221486296195c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1757ca11aadeac481b311c60ddcd50cd452e100" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c55f28deaf62be33f6913d84041689c426b5d483" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c571409ce8302fb849ec9bd377a63701639271ed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6b0dcddc1fab1ab1a8e3b750bc23791542261eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8023ed98f9aa7906138471b4ae2072ed6cd54b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c991651602327a1ebc563294466ca062ff25ee49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb7c56f010ff3fa4a411e28ca5d51b31727d92e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb84a1aa0d1c70619a80e48df7a15f65d28b2e64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d34ec99679e6b9ec90719dc1d978d44a924634b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3a37860233bc0b813fb1c5bd939c0b69d061dff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db9dad718158fbcbcb8d5e2c0b47659be7b2b10f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc1b63761720845651694e2f48c609e007959eb4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddfb26f6eb03fe469ef9034a91ceae43c9044915" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/debe96cf5c3fe158a062c055b02a5c158ff17e3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfd744605398b43b15c95b5bdacb636b3c554e9e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e335982a0bfcf9728818d1c1eddfd87d02a11aa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e37fae40477d73ca23cc7cdee2232073b103f2e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e84ae58a43441c6279b0286ac86b9286fc228303" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebba4f755cca1bba99ef8b68a8019ad3cd349008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec89162fc94a20fe3441df59b187746812e87dd1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed4c69628fe5d76b719ec81ec75293cf1db0092c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eebf35eeeb8c4b0ea4288c283be557ee201c4e44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f267ba272407617e0727d2c9e693cc477b32e62a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4603b4631d6350d20fadf53c037e89c4ec7f026" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f47c7a8754fbaca8d9d5cae9317018af2ea34b69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f697d1aa9a53b3848b3308669117e01e7b768fbb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f93a93eff02b1a10127f82fb7fb0d4837dd518a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hy-vue/hy-vue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/191b6e3b7f25949beacef22ca4b56b8560110550" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/191b6e3b7f25949beacef22ca4b56b8560110550" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6b0512ff2add3c612aad1a25a5b55394ba20313" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6b0512ff2add3c612aad1a25a5b55394ba20313" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/config/test.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/hy-vue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/assets/gelei/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/assets/gelei/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/Login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/common/NavMenu.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/home/AppIndex.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/Books.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/EditBook.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/LibraryIndex.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/SearchBar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/components/library/SideMenu.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/nightwatch.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/e2e/specs/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/jest.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/setup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hy-vue/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/SpaceUserClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spacepageclient/SpaceUserClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spacepageclient/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spacepageclient/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/entity/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spacepageclient/entity/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spacepageclient/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spaceuserclient/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/java/com/huanyue/spacepageclient/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space-user-client/src/main/resources/mapping/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/space-user-client/src/main/resources/mapping/UserMapper.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +134,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="mapper" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -75,23 +155,34 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hy-vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/space-page-client/src/main/resources/static" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git-repos\HySpace\hy-space\space-page-client\src\main\resources\static\css" />
+      <recent name="E:\git-repos\HySpace\hy-space\space-page-client\src\main\resources\static\js" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.huanyue.usermanage.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git-repos\HySpace\hy-space\space-page-client\src\main\resources\static" />
+      <recent name="E:\git-repos\HySpace\hy-space\space-page-client\src\main\resources\templates\hello" />
+      <recent name="E:\git-repos\HySpace\hy-space" />
       <recent name="E:\git-repos\HySpace\hy-space\space-user-client\src\main\resources" />
     </key>
   </component>
@@ -107,7 +198,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.WjApplication">
+  <component name="RunManager" selected="Spring Boot.SpacePageClientApplication">
+    <configuration name="SpacePageClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="space-page-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huanyue.spacepageclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huanyue.spacepageclient.SpacePageClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpaceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="space-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.huanyue.spaceserver.SpaceServerApplication" />
@@ -117,7 +224,7 @@
     </configuration>
     <configuration name="SpaceUserClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="space-user-client" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huanyue.spaceuserclient.SpaceUserClientApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huanyue.spacepageclient.SpaceUserClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,6 +243,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpaceServerApplication" />
+      <item itemvalue="Spring Boot.SpaceUserClientApplication" />
+      <item itemvalue="Spring Boot.UserManageApplication" />
+      <item itemvalue="Spring Boot.WjApplication" />
+      <item itemvalue="Spring Boot.SpacePageClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpacePageClientApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -150,7 +269,8 @@
       <workItem from="1591144271303" duration="1458000" />
       <workItem from="1591147762198" duration="2372000" />
       <workItem from="1591170044307" duration="5075000" />
-      <workItem from="1591233914005" duration="7637000" />
+      <workItem from="1591233914005" duration="7851000" />
+      <workItem from="1591317347904" duration="7741000" />
     </task>
     <task id="LOCAL-00001" summary="李鑫">
       <created>1591170315943</created>
@@ -180,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591238452366</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="李鑫&#10;模糊查询和分页功能">
+      <created>1591241652254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591241652254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

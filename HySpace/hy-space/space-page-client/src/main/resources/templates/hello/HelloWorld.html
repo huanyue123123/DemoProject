@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>HelloWorld</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <script src = "js/vue.js" type="application/javascript" ></script>
+</head>
+<body>
+<div id = "app">
+    {{ message }}
+    <p v-bind:title="message" v-on:click = "seenFalse">
+        鼠标悬停在这里
+    </p>
+    <p v-if = "seen">
+        你看不到我
+    </p>
+    <ol>
+        <li v-for = "obj in objs">
+            {{obj.text}}
+        </li>
+
+    </ol>
+    <button v-on:click = "reverseMsg">反转</button>
+    <input v-model = "message"/>
+    <ol>
+        <todo-item v-for="item in groceryList"
+                   v-bind:obj="item"
+                   v-bind:key="item.id"></todo-item>
+    </ol>
+    <h1>{{ a }}</h1>
+</div>
+
+
+
+
+
+<script>
+    Vue.component('todo-item',{
+        props:['obj'],
+        template:'<li>{{ obj.text }}</li>'
+    })
+
+    var app = new Vue({
+        el:"#app",
+        data:{
+            message:"m阿萨大sg" + new Date().toLocaleString(),
+            seen:false,
+            objs:[
+                {"text":"这样"},
+                {"text":"再这样"},
+                {"text":"最后这样"}
+            ],
+            groceryList: [
+                { id: 0, text: '蔬菜' },
+                { id: 1, text: '奶酪' },
+                { id: 2, text: '随便其它什么人吃的东西' }
+            ],
+            a:123456
+        },
+        created: function () {
+            // `this` 指向 vm 实例
+            alert('a is: ' + this.a)
+        },
+        methods:{
+            seenFalse:function(){
+                this.seen = true
+                this.a = 123
+            },
+            reverseMsg:function () {
+                this.message = this.message.split('').reverse().join('')
+            }
+        }
+    })
+    app.message = "快使用双截棍"
+    app.$watch('a', function (newValue, oldValue) {
+        alert(oldValue);
+        alert(newValue);
+    })
+
+</script>
+</body>
+</html>
