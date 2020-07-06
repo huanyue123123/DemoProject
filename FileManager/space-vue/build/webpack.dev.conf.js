@@ -45,6 +45,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     }
   },
   plugins: [
+
     new webpack.DefinePlugin({
       'process.env': require('../config/dev.env')
     }),
@@ -78,7 +79,6 @@ module.exports = new Promise((resolve, reject) => {
       process.env.PORT = port
       // add port to devServer config
       devWebpackConfig.devServer.port = port
-
       // Add FriendlyErrorsPlugin
       devWebpackConfig.plugins.push(new FriendlyErrorsPlugin({
         compilationSuccessInfo: {
@@ -93,3 +93,16 @@ module.exports = new Promise((resolve, reject) => {
     }
   })
 })
+
+/*module.exports = {
+    plugins: [
+  new WebpackSystemRegister({
+    systemjsDeps: [
+      /^react/, // any import that starts with react
+      'react-dom', // only the `react-dom` import
+      /^lodash/, // any import that starts with lodash
+    ],
+    registerName: 'test-module', // optional name that SystemJS will know this bundle as.
+  }),
+],
+}*/

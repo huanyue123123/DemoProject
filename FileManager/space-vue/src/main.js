@@ -6,6 +6,13 @@ import router from './router'
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import '@/assets/css/style.css'
+import axios from 'axios'
+import indexJs from '../config/index'
+import $ from 'jquery'
+
+axios.defaults.baseURL=indexJs.baseUrl
+
+Vue.prototype.$axios = axios
 
 Vue.use(ElementUI);
 

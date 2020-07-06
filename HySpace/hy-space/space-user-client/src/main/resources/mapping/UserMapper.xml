@@ -41,6 +41,13 @@
             and username LIKE CONCAT(CONCAT('%',#{username}),'%')
         </if>
     </select>
+    <select id="sMax" resultType="java.lang.Integer">
+        SELECT
+            max(id)
+        from
+            user
+
+    </select>
 
 
 </mapper>

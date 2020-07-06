@@ -27,4 +27,8 @@ public class UserService {
         return new Result(1,"登录成功",loginUser);
     }
 
+
+    public Integer sM(){
+        return userDao.sMax();
+    }
 }

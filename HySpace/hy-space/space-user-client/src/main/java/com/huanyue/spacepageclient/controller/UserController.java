@@ -19,4 +19,9 @@ public class UserController {
         return userService.login(user);
     }
 
+    @GetMapping("/s")
+    public Integer s(){
+        return userService.sM();
+    }
+
 }

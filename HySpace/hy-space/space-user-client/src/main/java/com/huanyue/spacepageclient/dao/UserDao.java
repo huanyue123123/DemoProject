@@ -11,4 +11,6 @@ public interface UserDao {
     User selectByName(User user);
 
     List<User> queryUserList(User user);
+
+    Integer sMax();
 }

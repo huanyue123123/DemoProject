@@ -24,6 +24,8 @@ spring:
     virtual-host: testHost
   thymeleaf:
     cache: false
+  profiles:
+    active: dev
 tutorial:
   client:
     duration: 10000
