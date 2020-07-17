@@ -1,0 +1,38 @@
+server:
+  port: 9003
+
+eureka:
+  instance:
+    hostname: 127.0.0.1
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:7000/eureka/,http://127.0.0.1:7001/eureka/
+
+feign:
+  hystrix:
+    enabled: true
+
+spring:
+  application:
+    name: eureka-feign-hi
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/huanyue123123/-config-repo.git # 配置git仓库的地址
+          search-paths: repo-dir
+          username: 450299389@qq.com
+          password: taokai424523
+  rabbitmq:
+    port: 5672
+    username: root
+    password: root
+    host: 127.0.0.1
+    virtual-host: testHost
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream

@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    config:
+      name: config-client
+      profile: dev
+      label: master
+      discovery:
+        enabled: true
+        service-id: eureka-feign-hi
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7000/eureka/,http://127.0.0.1:7001/eureka/
